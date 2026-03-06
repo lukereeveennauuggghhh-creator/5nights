@@ -1,0 +1,19 @@
+body{
+margin:0;
+padding:0;
+display:flex;
+justify-content:center;
+align-items:center;
+min-height:100vh;
+background:#0a0a0a;
+font-family:Arial;
+}
+
+#game-container{
+border:2px solid red;
+box-shadow:0 0 20px rgba(255,0,0,0.5);
+}
+
+canvas{
+display:block;
+}
